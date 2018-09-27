@@ -3,4 +3,6 @@
 
 ### 작동 플로우차트 (추가 요망)
 
+![Process Chart](/src/DroneActionProcess.png)
+
 ### 하위 문서
