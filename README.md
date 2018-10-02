@@ -27,6 +27,7 @@
 2.수업에 받게 될 부품목록(추후에 사야 될 것들)
 - GPS센서
 - 짐벌 카메라(보류...뭘해야할지, 추후선택)
+  -----> 고프로 추천상품 http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B478902068&frm3=V2
 - 스피커
 - 스포트라이트(출력강한 LED...범죄, 야간운행)
 - AP
