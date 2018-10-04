@@ -35,19 +35,26 @@
 
 
 ## 2018-10-04
-1.라즈베리파이3 B+ ___ 46,500 * 5ea
-  http://www.icbanq.com/P007542823
-2.WiFi Module 3 ___ 6,900 * 5ea
-  https://www.hardkernel.com/main/products/prdt_info.php?g_code=G137447734369
-3.MicroSD 128GB ___ 31,270 * 5ea
-  http://bitly.kr/2ARQ
-4.microSD리더 ___ 690 * 5ea
-  http://bitly.kr/4Ign
-5.Gimbal ___ $11.27 * 3ea    <<<<< 추후에 진행하기로...;;;
-  http://bitly.kr/Jbxi
-6.5V 전원 공급 모듈 ____ 2,660 * 5ea
-  http://www.devicemart.co.kr/1289317
-7.라즈베리파이3 아답터 ___ 2,900 * 5ea
-  http://www.devicemart.co.kr/1327302
-8.브레드보드 ___ 880 * 10ea (개인 2장씩)
-  http://bitly.kr/NZsK
+1. 라즈베리파이3 B+ ___ 46,500 * 5ea
+http://www.icbanq.com/P007542823
+
+2. WiFi Module 3 ___ 6,900 * 5ea
+https://www.hardkernel.com/main/products/prdt_info.php?g_code=G137447734369
+
+3. MicroSD 128GB ___ 31,270 * 5ea
+http://bitly.kr/2ARQ
+
+4. microSD리더 ___ 690 * 5ea
+http://bitly.kr/4Ign
+
+5. Gimbal ___ $11.27 * 3ea    <<<<< 추후에 진행하기로...;;;
+http://bitly.kr/Jbxi
+
+6. 5V 전원 공급 모듈 ____ 2,660 * 5ea
+http://www.devicemart.co.kr/1289317
+
+7. 라즈베리파이3 아답터 ___ 2,900 * 5ea
+http://www.devicemart.co.kr/1327302
+
+8. 브레드보드 ___ 880 * 10ea (개인 2장씩)
+http://bitly.kr/NZsK
