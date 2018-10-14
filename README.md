@@ -1,8 +1,47 @@
 # DroneSW_CCTV_Drone
 드론 소프트웨어 교육 리포
 
+***
+
+## 2018-10-14
+[**"Discord" 회의로 진행**](https://discord.gg/vs4wHTV)
++ GPS + FC
+  - 1.Pixhawk PX4 PIX 2.4.8 32 Bit Flight Controller+433(500MA) Telemetry+M8N GPS+Minim OSD+PM+Safety Switch+Buzzer+PPM+I2C....2EA
+  - 2.Pixhawk PX4 PIX 2.4.8 32 Bit Flight Controller+915(500MA) Telemetry+M8N GPS+Minim OSD+PM+Safety Switch+Buzzer+PPM+I2C....1EA
+  $112.99 * 3 = ($339.92) [사이트이동](https://ko.aliexpress.com/item/PX4-PIX-2-4-8-32-Bit-Flight-Controller-433-915-Telemetry-Neo-M8N-GPS-Minim/32759523206.html?spm=a2g12.10010108.1000016.1.73ab5668nBzNVE&isOrigTitle=true)  
 
 
++ 모터 밑바닥 그림
+[T-MOTOR] MN3508 KV380  
+![모터밑바닥](/img/모터.png)
+레이싱 드론의 모터 바닥 구멍과 맞아 떨어지는지 여부 판단!!!
+
+
+
++ 농업용 드론 프레임
+  - 1.Tarot 3K Kit FY690S ALL Carbon metal folding type hexa copter main frame TL68C01  ($111.97)  [사이트이동](https://ko.aliexpress.com/item/Tarot-3K-Kit-FY690S-ALL-Carbon-metal-folding-type-hexa-copter-main-frame-TL68C01/1596993987.html?spm=a2g12.10010108.1000016.1.2ce5718fIfEBqB&isOrigTitle=true)
+
++ CCTV 드론 프레임
+  - CCTV 레이싱드론 : Pure Carbon Fiber 290 Mini Quadcopter Frame 350 Mini Hexacopter Frame For FPV Speed Flight Multicopter...($70.32) [사이트이동](https://ko.aliexpress.com/item/Pure-Carbon-Fiber-290-Mini-Quadcopter-Frame-350-Mini-Hexacopter-Frame-For-FPV-Speed-Flight-Multicopter/32371998666.html?spm=a2g12.10010108.1000016.1.59057554hztJ8p&isOrigTitle=true)  
+
+  - CCTV 드론 : FPV drone quadcopter H4 Alien 450 / 680 pure carbon folding frame unassembled 450mm/680mm Support X8 mode...($103.83) [사이트이동](https://ko.aliexpress.com/item/FPV-drone-quadcopter-H4-Alien-450-680-pure-carbon-folding-frame-unassembled-450mm-680mm-Support/32695942292.html?spm=a2g12.10010108.1000016.1.443cfc31dIlcpa&isOrigTitle=true)
+
+
+### 정해야 할 부품
++ 배터리
++ 배터리 충전기
++ 프롭 8" + 10" + 12"
++ 카메라 + 짐벌  * 2EA
++ 영상송수신장비(FPV)
+
+
+### 군산대 교수님께 요청할 부품목록
++ 마이크 : 아두이노 고감도 마이크 센서 모듈 사운드 모듈 KY-037...990원 * 5EA[사이트이동](https://han.gl/QTy9c)  
+
++ 스피커 : 아두이노 TDA2822 증폭 모듈+3W/4Ω 스피커 패키지 (ICF-1719)...9,900 * 5EA[사이트 이동](https://www.icfactory.co.kr/goods/goods_view.php?goodsNo=1000001803)  
+
+
+***
 ## 2018-10-12
 
 1. 상시대기하면서 (라즈베리) 센터로 사진정보 전송------(이미 있음)
@@ -12,20 +51,36 @@
 5. 드론 내에...."스피커"를 쓸 수 있는 PG. ....+ "마이크" 추가 설치.
 6. 사고지점 도착했을때 주변을 도는 기능이 있는지 추후에 알아보기.
 
+![CCTV Drone 이해도](/img/ppt.jpg)
+
 ### 드론부품정하기
-+ 프롭 : CCTV - 10인치 (450급)  
-        농업용 - 12인치 (580급)  
++ 프롭 : CCTV - 10인치 (450급)    [**참고**](https://brunch.co.kr/@matthewmin/69)  
+        농업용 - 12인치 (580급)
+        레이싱 드론 - 8인치 (350급)  
 
-+ ESC : SkyWalker 60A UBEC/60A-80A/25,322원/69g/2-6S...15EA
-      (379,830원)
++ ESC : SkyWalker 60A UBEC/60A-80A/25,322원/69g/2-6S...15EA + 6EA
+      (379,830원) + (151,932원)=...531,762원   [사이트이동](https://www.banggood.com/ko/Hobbywing-Skywalker-2-6S-60A-UBEC-Brushless-ESC-With-5V5A-BEC-For-RC-Airplane-p-1039598.html?)  
 
-+ 모터 : 1.[SUNNYSKY] X2212 980KV Outrunner Brushless Motor For Drone (450-550급)...12EA  (cw + ccw...6개씩)
++ 모터
+  - 1.[SUNNYSKY] X2212 980KV Outrunner Brushless Motor For Drone (450-550급)...12EA  (cw + ccw...6개씩)  
       (336,000원)  
 
-        2.[T-MOTOR] MN3508 KV380 79,800원....10EA  
-        (798,000원)
+  - 2.[T-MOTOR] MN3508 KV380 79,800원....10EA  
+        (798,000원)    [사이트이동](http://dronewe.com/product/detail.html?product_no=3555&cate_no=496&display_group=1)  
 
+<<<<<<< HEAD
 + GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  +
+=======
++ GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  
+            (359,000원)    [사이트이동](https://www.amazon.com/APM2-8-ArduPilot-Controller-Telemetry-RC150/dp/B016EQQPRA)
+
++ GPS : (미정)
+
++ FC : (미정)
+
+
+***
+>>>>>>> 8dee5d7040af3dba84293271ad4e8466b84f9f14
 
 ## 2018-10-11
 
@@ -39,7 +94,7 @@
 + 10월 중 감사를 대비해서, 그날만큼은 모두 참석할 수 있도록 노력할 것.
 
 
-
+***
 
 ## 2018-10-05
 
@@ -131,7 +186,7 @@
     돌아올수 있다.
     -> 라즈베리파이 코딩
 
-
+***
 
 ## 2018-10-04
 1. 라즈베리파이3 B+ ___ 46,500 * 5ea
@@ -159,7 +214,7 @@ http://www.devicemart.co.kr/1327302
 http://bitly.kr/NZsK
 
 
-
+***
 
 ## 2018-10-02
 1.필요부품 목록(사야 할 것들)
@@ -182,7 +237,7 @@ http://bitly.kr/NZsK
 - 스포트라이트(출력강한 LED...범죄, 야간운행)
 - AP
 
-
+***
 
 ### 작동 플로우차트 (추가 요망)
 
