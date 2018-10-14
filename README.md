@@ -8,7 +8,7 @@
 + GPS + FC
   - 1.Pixhawk PX4 PIX 2.4.8 32 Bit Flight Controller+433(500MA) Telemetry+M8N GPS+Minim OSD+PM+Safety Switch+Buzzer+PPM+I2C....2EA
   - 2.Pixhawk PX4 PIX 2.4.8 32 Bit Flight Controller+915(500MA) Telemetry+M8N GPS+Minim OSD+PM+Safety Switch+Buzzer+PPM+I2C....1EA
-  $112.99 * 3 [($339.92)](https://ko.aliexpress.com/item/PX4-PIX-2-4-8-32-Bit-Flight-Controller-433-915-Telemetry-Neo-M8N-GPS-Minim/32759523206.html?spm=a2g12.10010108.1000016.1.73ab5668nBzNVE&isOrigTitle=true)  
+  $112.99 * 3 = ($339.92) [사이트이동](https://ko.aliexpress.com/item/PX4-PIX-2-4-8-32-Bit-Flight-Controller-433-915-Telemetry-Neo-M8N-GPS-Minim/32759523206.html?spm=a2g12.10010108.1000016.1.73ab5668nBzNVE&isOrigTitle=true)  
 
 
 + 모터 밑바닥 그림
@@ -16,6 +16,14 @@
 ![모터밑바닥](/img/모터.png)
 레이싱 드론의 모터 바닥 구멍과 맞아 떨어지는지 여부 판단!!!
 
++ 농업용 드론 프레임
+  - 1.Tarot 3K Kit FY690S ALL Carbon metal folding type hexa copter main frame TL68C01  ($111.97)  [사이트이동](https://ko.aliexpress.com/item/Tarot-3K-Kit-FY690S-ALL-Carbon-metal-folding-type-hexa-copter-main-frame-TL68C01/1596993987.html?spm=a2g12.10010108.1000016.1.2ce5718fIfEBqB&isOrigTitle=true)
+
++ CCTV 드론 프레임
+  - CCTV 레이싱드론 : Pure Carbon Fiber 290 Mini Quadcopter Frame 350 Mini Hexacopter Frame For FPV Speed Flight Multicopter...($70.32) [사이트이동](https://ko.aliexpress.com/item/Pure-Carbon-Fiber-290-Mini-Quadcopter-Frame-350-Mini-Hexacopter-Frame-For-FPV-Speed-Flight-Multicopter/32371998666.html?spm=a2g12.10010108.1000016.1.59057554hztJ8p&isOrigTitle=true)  
+
+  - CCTV 드론 : FPV drone quadcopter H4 Alien 450 / 680 pure carbon folding frame unassembled 450mm/680mm Support X8 mode...($103.83) [사이트이동](https://ko.aliexpress.com/item/FPV-drone-quadcopter-H4-Alien-450-680-pure-carbon-folding-frame-unassembled-450mm-680mm-Support/32695942292.html?spm=a2g12.10010108.1000016.1.443cfc31dIlcpa&isOrigTitle=true)
+  
 ***
 ## 2018-10-12
 
