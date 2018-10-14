@@ -10,7 +10,11 @@
   - 2.Pixhawk PX4 PIX 2.4.8 32 Bit Flight Controller+915(500MA) Telemetry+M8N GPS+Minim OSD+PM+Safety Switch+Buzzer+PPM+I2C....1EA
   $112.99 * 3 [($339.92)](https://ko.aliexpress.com/item/PX4-PIX-2-4-8-32-Bit-Flight-Controller-433-915-Telemetry-Neo-M8N-GPS-Minim/32759523206.html?spm=a2g12.10010108.1000016.1.73ab5668nBzNVE&isOrigTitle=true)  
 
-+ 기타 드론부품정하기
+
++ 모터 밑바닥 그림
+[T-MOTOR] MN3508 KV380  
+![모터밑바닥](/img/모터.png)
+레이싱 드론의 모터 바닥 구멍과 맞아 떨어지는지 여부 판단!!!
 
 ***
 ## 2018-10-12
@@ -26,10 +30,11 @@
 
 ### 드론부품정하기
 + 프롭 : CCTV - 10인치 (450급)    [**참고**](https://brunch.co.kr/@matthewmin/69)  
-        농업용 - 12인치 (580급)  
+        농업용 - 12인치 (580급)
+        레이싱 드론 - 8인치 (350급)  
 
-+ ESC : SkyWalker 60A UBEC/60A-80A/25,322원/69g/2-6S...15EA  
-      (379,830원)    [사이트이동](https://www.banggood.com/ko/Hobbywing-Skywalker-2-6S-60A-UBEC-Brushless-ESC-With-5V5A-BEC-For-RC-Airplane-p-1039598.html?)  
++ ESC : SkyWalker 60A UBEC/60A-80A/25,322원/69g/2-6S...15EA + 6EA
+      (379,830원) + (151,932원)=...531,762원   [사이트이동](https://www.banggood.com/ko/Hobbywing-Skywalker-2-6S-60A-UBEC-Brushless-ESC-With-5V5A-BEC-For-RC-Airplane-p-1039598.html?)  
 
 + 모터
   - 1.[SUNNYSKY] X2212 980KV Outrunner Brushless Motor For Drone (450-550급)...12EA  (cw + ccw...6개씩)  
