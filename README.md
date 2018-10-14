@@ -23,7 +23,20 @@
   - CCTV 레이싱드론 : Pure Carbon Fiber 290 Mini Quadcopter Frame 350 Mini Hexacopter Frame For FPV Speed Flight Multicopter...($70.32) [사이트이동](https://ko.aliexpress.com/item/Pure-Carbon-Fiber-290-Mini-Quadcopter-Frame-350-Mini-Hexacopter-Frame-For-FPV-Speed-Flight-Multicopter/32371998666.html?spm=a2g12.10010108.1000016.1.59057554hztJ8p&isOrigTitle=true)  
 
   - CCTV 드론 : FPV drone quadcopter H4 Alien 450 / 680 pure carbon folding frame unassembled 450mm/680mm Support X8 mode...($103.83) [사이트이동](https://ko.aliexpress.com/item/FPV-drone-quadcopter-H4-Alien-450-680-pure-carbon-folding-frame-unassembled-450mm-680mm-Support/32695942292.html?spm=a2g12.10010108.1000016.1.443cfc31dIlcpa&isOrigTitle=true)
-  
+
+
+### 정해야 할 부품
++ 배터리
++ 배터리 충전기
++ 프롭 8" + 10" + 12"
++ 카메라 + 짐벌  * 2EA
++ 영상송수신장비(FPV)
+
++ 마이크
++ 스피커
+
+
+
 ***
 ## 2018-10-12
 
