@@ -25,16 +25,7 @@
         2.[T-MOTOR] MN3508 KV380 79,800원....10EA  
         (798,000원)
 
-+ GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  
-            (359,000원)
-
-+ GPS : (미정)
-
-+ FC : (미정)
-
-
-
-
++ GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  +
 
 ## 2018-10-11
 
@@ -197,6 +188,6 @@ http://bitly.kr/NZsK
 
 ![Process Chart](/Misc/DroneActionProcess.png)
 
-### 하위 문서
+### 하위 문서 
 평시 - 비/바람에 대비, 외부충격(탑차, 우박 등)/n
 출동 - 사건현장의 사람들, 자동차 회피
