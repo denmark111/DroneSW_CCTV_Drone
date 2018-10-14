@@ -25,7 +25,7 @@
         농업용 - 12인치 (580급)  
 
 + ESC : SkyWalker 60A UBEC/60A-80A/25,322원/69g/2-6S...15EA  
-      (379,830원)    [사이트이동](https://www.banggood.com/ko/Hobbywing-Skywalker-2-6S-60A-UBEC-Brushless-ESC-With-5V5A-BEC-For-RC-Airplane-p-1039598.html?)  
+      (379,830원)  
 
 + 모터 : 1.[SUNNYSKY] X2212 980KV Outrunner Brushless Motor For Drone (450-550급)...12EA  (cw + ccw...6개씩)  
       (336,000원)  
