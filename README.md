@@ -16,6 +16,8 @@
 ![모터밑바닥](/img/모터.png)
 레이싱 드론의 모터 바닥 구멍과 맞아 떨어지는지 여부 판단!!!
 
+
+
 + 농업용 드론 프레임
   - 1.Tarot 3K Kit FY690S ALL Carbon metal folding type hexa copter main frame TL68C01  ($111.97)  [사이트이동](https://ko.aliexpress.com/item/Tarot-3K-Kit-FY690S-ALL-Carbon-metal-folding-type-hexa-copter-main-frame-TL68C01/1596993987.html?spm=a2g12.10010108.1000016.1.2ce5718fIfEBqB&isOrigTitle=true)
 
@@ -32,9 +34,11 @@
 + 카메라 + 짐벌  * 2EA
 + 영상송수신장비(FPV)
 
-+ 마이크
-+ 스피커
 
+### 군산대 교수님께 요청할 부품목록
++ 마이크 : 아두이노 고감도 마이크 센서 모듈 사운드 모듈 KY-037...990원 * 5EA[사이트이동](https://han.gl/QTy9c)  
+
++ 스피커 : 아두이노 TDA2822 증폭 모듈+3W/4Ω 스피커 패키지 (ICF-1719)...9,900 * 5EA[사이트 이동](https://www.icfactory.co.kr/goods/goods_view.php?goodsNo=1000001803)  
 
 
 ***
