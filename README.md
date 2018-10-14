@@ -26,13 +26,13 @@
 + ESC : [SkyWalker 60A UBEC/60A-80A/25,322원/69g/2-6S...15EA](https://www.banggood.com/ko/Hobbywing-Skywalker-2-6S-60A-UBEC-Brushless-ESC-With-5V5A-BEC-For-RC-Airplane-p-1039598.html?)  
       (379,830원)
 
-+ 모터 : 1.[SUNNYSKY] X2212 980KV Outrunner Brushless Motor For Drone (450-550급)...12EA  (cw + ccw...6개씩)(http://dronewe.com/product/detail.html?product_no=3555&cate_no=496&display_group=1)  
++ 모터 : 1.[SUNNYSKY] X2212 980KV Outrunner Brushless Motor For Drone (450-550급)...12EA  (cw + ccw...6개씩)  
       (336,000원)  
 
-        2.[T-MOTOR] MN3508 KV380 79,800원....10EA  
+        2.[T-MOTOR](http://dronewe.com/product/detail.html?product_no=3555&cate_no=496&display_group=1) MN3508 KV380 79,800원....10EA  
         (798,000원)
 
-+ GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  
++ GPS + FC : [Pixhawk4 GPS Package](https://www.amazon.com/APM2-8-ArduPilot-Controller-Telemetry-RC150/dp/B016EQQPRA) 픽스호크4 (Plastic case)...1EA  
             (359,000원)
 
 + GPS : (미정)
