@@ -5,8 +5,11 @@
 
 ## 2018-10-14
 [**"Discord" 회의로 진행**](https://discord.gg/vs4wHTV)
-+ GPS : 정하기
-+ FC : 정하기
++ GPS + FC
+  - 1.Pixhawk PX4 PIX 2.4.8 32 Bit Flight Controller+433(500MA) Telemetry+M8N GPS+Minim OSD+PM+Safety Switch+Buzzer+PPM+I2C....2EA
+  - 2.Pixhawk PX4 PIX 2.4.8 32 Bit Flight Controller+915(500MA) Telemetry+M8N GPS+Minim OSD+PM+Safety Switch+Buzzer+PPM+I2C....1EA
+  $112.99 * 3 [($339.92)](https://ko.aliexpress.com/item/PX4-PIX-2-4-8-32-Bit-Flight-Controller-433-915-Telemetry-Neo-M8N-GPS-Minim/32759523206.html?spm=a2g12.10010108.1000016.1.73ab5668nBzNVE&isOrigTitle=true)  
+
 + 기타 드론부품정하기
 
 ***
