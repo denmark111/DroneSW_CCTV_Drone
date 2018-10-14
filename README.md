@@ -13,7 +13,7 @@
 
 + 모터 밑바닥 그림
 [T-MOTOR] MN3508 KV380  
-![모터밑바닥](/img/모터.png)
+![모터밑바닥](/img/모터.png)  
 레이싱 드론의 모터 바닥 구멍과 맞아 떨어지는지 여부 판단!!!
 
 
@@ -31,7 +31,9 @@
 + 배터리
 + 배터리 충전기
 + 프롭 8" + 10" + 12"
-+ 카메라 + 짐벌  * 2EA
+
++ 카메라 + 짐벌 : Original Xiaomi Mi Drone 4K Camera Gimbal Accessories For RC Quadcopter Camera Drone FPV Racer Parts ($269.99) * 2EA ....$539.98 [사이트이동](http://bitly.kr/0Hm1)
+
 + 영상송수신장비(FPV)
 
 
