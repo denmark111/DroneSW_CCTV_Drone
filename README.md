@@ -16,6 +16,8 @@
 ![모터밑바닥](/img/모터.png)
 레이싱 드론의 모터 바닥 구멍과 맞아 떨어지는지 여부 판단!!!
 
+
+
 + 농업용 드론 프레임
   - 1.Tarot 3K Kit FY690S ALL Carbon metal folding type hexa copter main frame TL68C01  ($111.97)  [사이트이동](https://ko.aliexpress.com/item/Tarot-3K-Kit-FY690S-ALL-Carbon-metal-folding-type-hexa-copter-main-frame-TL68C01/1596993987.html?spm=a2g12.10010108.1000016.1.2ce5718fIfEBqB&isOrigTitle=true)
 
@@ -23,7 +25,22 @@
   - CCTV 레이싱드론 : Pure Carbon Fiber 290 Mini Quadcopter Frame 350 Mini Hexacopter Frame For FPV Speed Flight Multicopter...($70.32) [사이트이동](https://ko.aliexpress.com/item/Pure-Carbon-Fiber-290-Mini-Quadcopter-Frame-350-Mini-Hexacopter-Frame-For-FPV-Speed-Flight-Multicopter/32371998666.html?spm=a2g12.10010108.1000016.1.59057554hztJ8p&isOrigTitle=true)  
 
   - CCTV 드론 : FPV drone quadcopter H4 Alien 450 / 680 pure carbon folding frame unassembled 450mm/680mm Support X8 mode...($103.83) [사이트이동](https://ko.aliexpress.com/item/FPV-drone-quadcopter-H4-Alien-450-680-pure-carbon-folding-frame-unassembled-450mm-680mm-Support/32695942292.html?spm=a2g12.10010108.1000016.1.443cfc31dIlcpa&isOrigTitle=true)
-  
+
+
+### 정해야 할 부품
++ 배터리
++ 배터리 충전기
++ 프롭 8" + 10" + 12"
++ 카메라 + 짐벌  * 2EA
++ 영상송수신장비(FPV)
+
+
+### 군산대 교수님께 요청할 부품목록
++ 마이크 : 아두이노 고감도 마이크 센서 모듈 사운드 모듈 KY-037...990원 * 5EA[사이트이동](https://han.gl/QTy9c)  
+
++ 스피커 : 아두이노 TDA2822 증폭 모듈+3W/4Ω 스피커 패키지 (ICF-1719)...9,900 * 5EA[사이트 이동](https://www.icfactory.co.kr/goods/goods_view.php?goodsNo=1000001803)  
+
+
 ***
 ## 2018-10-12
 
@@ -64,6 +81,9 @@
   - 2.[T-MOTOR] MN3508 KV380 79,800원....10EA  
         (798,000원)    [사이트이동](http://dronewe.com/product/detail.html?product_no=3555&cate_no=496&display_group=1)  
 
+<<<<<<< HEAD
++ GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  +
+=======
 + GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  
             (359,000원)    [사이트이동](https://www.amazon.com/APM2-8-ArduPilot-Controller-Telemetry-RC150/dp/B016EQQPRA)
 
@@ -73,6 +93,7 @@
 
 
 ***
+>>>>>>> 8dee5d7040af3dba84293271ad4e8466b84f9f14
 
 ## 2018-10-11
 
@@ -235,6 +256,6 @@ http://bitly.kr/NZsK
 
 ![Process Chart](/Misc/DroneActionProcess.png)
 
-### 하위 문서
+### 하위 문서 
 평시 - 비/바람에 대비, 외부충격(탑차, 우박 등)/n
 출동 - 사건현장의 사람들, 자동차 회피
