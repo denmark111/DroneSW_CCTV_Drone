@@ -72,9 +72,22 @@
 ![CCTV Drone 이해도](/img/ppt.jpg)
 
 ### 드론부품정하기
-+ 프롭 : CCTV - 10인치 (450급)    [**참고**](https://brunch.co.kr/@matthewmin/69)  
-        농업용 - 12인치 (580급)
-        레이싱 드론 - 8인치 (350급)  
++ 프롭 : CCTV - 10인치 (450급) - 8쌍 * 4개   [**참고**]
+        
+        [사이트 이동](https://ko.aliexpress.com/item/8-10x4-5-1045-Carbon-Fiber-Blade-CW-CCW-RC-Drone-10-inch/32843081363.html?spm=a2g12.search0104.3.1.2bf15aealtVDE1&ws_ab_test=searchweb0_0%2Csearchweb201602_3_10065_10068_318_319_5727315_10696_450_10084_10083_10618_452_535_534_533_10307_532_10712_10713_5727215_204_10059_10884_10887_100031_320_10103_448_449%2Csearchweb201603_2%2CppcSwitch_0&algo_pvid=68f32a8e-dbfa-4925-b01b-e9295337c4e0&algo_expid=68f32a8e-dbfa-4925-b01b-e9295337c4e0-0)
+        ($57.48)
+
+  
+        농업용 - 14인치 (690급) 6쌍
+        [사이트이동]
+        (https://ko.aliexpress.com/item/1-4-1470-3-CW-CCW-14x7-0-CF-DIY-Multicopter/32866291009.html?spm=a2g12.search0104.3.9.4c25103fgMZqVS&ws_ab_test=searchweb0_0%2Csearchweb201602_3_10065_10068_318_319_5727315_10696_450_10084_10083_10618_452_535_534_533_10307_532_10712_10713_5727215_204_10059_10884_10887_100031_320_10103_448_449%2Csearchweb201603_2%2CppcSwitch_0&algo_pvid=1b01b0d0-19a3-4818-9163-85706f37dd17&algo_expid=1b01b0d0-19a3-4818-9163-85706f37dd17-1)
+        ($141.90)
+
+        레이싱 드론 - 8인치 (350급)  - 5쌍
+        [사이트이동]
+        (https://ko.aliexpress.com/item/1pair-12mm-Hole-8045-8-4-5-inch-Carbon-Fiber-Propeller-Props-CW-CCW-for-DJI/32654564076.html?spm=a2g12.10010108.1000016.1.235829c5PMVzsZ&isOrigTitle=true)
+        ($27.71)
+
 
 + ESC : SkyWalker 60A UBEC/60A-80A/25,322원/69g/2-6S...15EA + 6EA
       (379,830원) + (151,932원)=...531,762원   [사이트이동](https://www.banggood.com/ko/Hobbywing-Skywalker-2-6S-60A-UBEC-Brushless-ESC-With-5V5A-BEC-For-RC-Airplane-p-1039598.html?)  
@@ -86,6 +99,9 @@
   - 2.[T-MOTOR] MN3508 KV380 79,800원....10EA  
         (798,000원)    [사이트이동](http://dronewe.com/product/detail.html?product_no=3555&cate_no=496&display_group=1)  
 
+<<<<<<< HEAD
++ GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  +
+=======
 + GPS + FC : Pixhawk4 GPS Package 픽스호크4 (Plastic case)...1EA  
             (359,000원)    [사이트이동](https://www.amazon.com/APM2-8-ArduPilot-Controller-Telemetry-RC150/dp/B016EQQPRA)
 
@@ -95,6 +111,7 @@
 
 
 ***
+>>>>>>> 8dee5d7040af3dba84293271ad4e8466b84f9f14
 
 ## 2018-10-11
 
@@ -257,6 +274,6 @@ http://bitly.kr/NZsK
 
 ![Process Chart](/Misc/DroneActionProcess.png)
 
-### 하위 문서
+### 하위 문서 
 평시 - 비/바람에 대비, 외부충격(탑차, 우박 등)/n
 출동 - 사건현장의 사람들, 자동차 회피
