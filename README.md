@@ -3,6 +3,22 @@
 
 ***
 
+## 2018-10-15
++ 배터리
+  - [Turnigy 5000mAh 3S 20C Lipo Pack w/XT-60](https://hobbyking.com/en_us/turnigy-5000mah-3s-20c-lipo-pack-xt-90.html) 3C * 2EA ... $24.81 * 2 = $49.62
+
+  - [Turnigy 5000mAh 4S1P 14.8V 20C Hardcase Pack](https://hobbyking.com/en_us/turnigy-5000mah-4s1p-14-8v-20c-hardcase-pack-1.html) 4C * 2EA ... $32.44 * 2 = $64.88
+
++ 배터리 충전기
+
++ 카메라
+  -
++ 짐벌
+
+
+
+***
+
 ## 2018-10-14
 [**"Discord" 회의로 진행**](https://discord.gg/vs4wHTV)
 + GPS + FC
