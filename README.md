@@ -2,6 +2,11 @@
 드론 소프트웨어 교육 리포
 
 ***
+## 2018-10-16
+
+
+
+***
 
 ## 2018-10-15
 + 배터리
@@ -12,9 +17,9 @@
 + 배터리 충전기
 
 + 카메라
-  - [Pixy2 cam](http://m.eleparts.co.kr/goods/view?no=6484101)
-  - [Survey3 Camera + Calibration Target Bundle V2](https://www.mapir.camera/collections/survey3/products/survey3-camera-calibration-target-bundle)  
-  
+  - [Pixy2 cam](http://m.eleparts.co.kr/goods/view?no=6484101) 72,000 * 2EA = 144,000원  
+  - [Survey3 Camera + Calibration Target Bundle V2](https://www.mapir.camera/collections/survey3/products/survey3-camera-calibration-target-bundle)  $600  
+
 + 짐벌
   -
 
