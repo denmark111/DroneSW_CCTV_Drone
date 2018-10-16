@@ -13,6 +13,8 @@
 
 + 카메라
   - [Pixy2 cam](http://m.eleparts.co.kr/goods/view?no=6484101)
+  - [Survey3 Camera + Calibration Target Bundle V2](https://www.mapir.camera/collections/survey3/products/survey3-camera-calibration-target-bundle)  
+  
 + 짐벌
   -
 
